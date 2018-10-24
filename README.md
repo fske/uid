@@ -2,10 +2,12 @@
 
 ID is composed of
 
+```
 x bytes for prefix
 8 bytes for time in units of 10 ms
 2 bytes for a instance id, not greater than 1000
 2 bytes for a loop number, not greater than 1000
+```
 
 # Installation
 
